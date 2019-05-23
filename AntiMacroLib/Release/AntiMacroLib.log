@@ -1,0 +1,23 @@
+﻿Der Buildvorgang wurde am 10.07.2014 15:36:45 gestartet.
+     1>Projekt "C:\Users\str8\documents\visual studio 2013\Projects\AntiMacroBreaker\AntiMacroLib\AntiMacroLib.vcxproj" auf Knoten "2", Rebuild Ziel(e).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\lib\opencv\build\include\opencv /IC:\lib\opencv\build\include /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CaptureImage.cpp MacroSolver.cpp MouseInput.cpp
+         CaptureImage.cpp
+         MacroSolver.cpp
+     1>MacroSolver.cpp(9): warning C4244: 'Argument': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>MacroSolver.cpp(23): warning C4244: 'Argument': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>MacroSolver.cpp(32): warning C4244: 'Argument': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>MacroSolver.cpp(45): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>MacroSolver.cpp(137): warning C4244: 'Argument': Konvertierung von 'double' in 'float', möglicher Datenverlust
+     1>MacroSolver.cpp(149): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+         MouseInput.cpp
+       Lib:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\str8\documents\visual studio 2013\Projects\AntiMacroBreaker\Release\AntiMacroLib.lib" /NOLOGO /LTCG Release\CaptureImage.obj
+         Release\MacroSolver.obj
+         Release\MouseInput.obj
+         AntiMacroLib.vcxproj -> C:\Users\str8\documents\visual studio 2013\Projects\AntiMacroBreaker\Release\AntiMacroLib.lib
+     1>Die Erstellung des Projekts "C:\Users\str8\documents\visual studio 2013\Projects\AntiMacroBreaker\AntiMacroLib\AntiMacroLib.vcxproj" ist abgeschlossen, Rebuild Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:04.78

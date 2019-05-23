@@ -1,0 +1,26 @@
+﻿Der Buildvorgang wurde am 10.07.2014 15:36:54 gestartet.
+     1>Projekt "C:\Users\str8\documents\visual studio 2013\Projects\AntiMacroBreaker\AntiMacroCLR\AntiMacroCLR.vcxproj" auf Knoten "2", Rebuild Ziel(e).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib AntiMacroCLR.cpp AssemblyInfo.cpp
+         AntiMacroCLR.cpp
+     1>c:\lib\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 12.0\VC\include\stdio.h(211): Siehe Deklaration von 'fopen'
+     1>AntiMacroCLR.cpp(25): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>AntiMacroCLR.cpp(81): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+         AssemblyInfo.cpp
+         Code wird generiert...
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /TP /analyze- /errorReport:prompt "C:\Users\str8\AppData\Local\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\str8\documents\visual studio 2013\Projects\AntiMacroBreaker\Release\AntiMacroCLR.dll" /INCREMENTAL:NO /NOLOGO AntiMacroLib.lib opencv_core249.lib opencv_imgproc249.lib opencv_highgui249.lib opencv_objdetect249.lib user32.lib gdi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\str8\documents\visual studio 2013\Projects\AntiMacroBreaker\Release\AntiMacroCLR.pdb" /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH /DLL Release\AntiMacroCLR.obj
+         Release\AssemblyInfo.obj
+         "Release\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         AntiMacroLib.lib(MacroSolver.obj) : Es wurde ein mit /GL kompiliertes MSIL .netmodule oder module gefunden. Verknüpfung wird mit /LTCG erneut gestartet. Fügen Sie /LTCG zur Linkbefehlszeile hinzu, um die Linkerleistung zu erhöhen.
+         Code wird generiert.
+         Codegenerierung ist abgeschlossen.
+         AntiMacroCLR.vcxproj -> C:\Users\str8\documents\visual studio 2013\Projects\AntiMacroBreaker\Release\AntiMacroCLR.dll
+     1>Die Erstellung des Projekts "C:\Users\str8\documents\visual studio 2013\Projects\AntiMacroBreaker\AntiMacroCLR\AntiMacroCLR.vcxproj" ist abgeschlossen, Rebuild Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:06.51

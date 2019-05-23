@@ -1,0 +1,10 @@
+c:\users\str8\documents\visual studio 2013\Projects\AntiMacroBreaker\AntiMacroBreaker\bin\Release\AntiMacroBreaker.exe.config
+c:\users\str8\documents\visual studio 2013\Projects\AntiMacroBreaker\AntiMacroBreaker\bin\Release\AntiMacroBreaker.exe
+c:\users\str8\documents\visual studio 2013\Projects\AntiMacroBreaker\AntiMacroBreaker\bin\Release\AntiMacroCLR.dll
+c:\users\str8\documents\visual studio 2013\Projects\AntiMacroBreaker\AntiMacroBreaker\obj\Release\AntiMacroBreaker.Form1.resources
+c:\users\str8\documents\visual studio 2013\Projects\AntiMacroBreaker\AntiMacroBreaker\obj\Release\AntiMacroBreaker.Properties.Resources.resources
+c:\users\str8\documents\visual studio 2013\Projects\AntiMacroBreaker\AntiMacroBreaker\obj\Release\AntiMacroBreaker.csproj.GenerateResource.Cache
+c:\users\str8\documents\visual studio 2013\Projects\AntiMacroBreaker\AntiMacroBreaker\obj\Release\AntiMacroBreaker.exe
+C:\Users\str8\documents\visual studio 2013\Projects\AntiMacroBreaker\AntiMacroBreaker\obj\Release\AntiMacroBreaker.csprojResolveAssemblyReference.cache
+C:\Users\str8\Documents\Visual Studio 2015\Projects\AntiMacroBreaker\AntiMacroBreaker\bin\Release\AntiMacroBreaker.exe.config
+C:\Users\str8\Documents\Visual Studio 2015\Projects\AntiMacroBreaker\AntiMacroBreaker\obj\Release\AntiMacroBreaker.exe
